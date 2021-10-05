@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshu-singhal-creator
+# 👋 Hi, I’m @Himanshu-singhal-creator
 - 👀 I’m interested in the field related to softwares
 - 🌱 I’m currently learning pyhton(just started)
 - 💞️ I’m looking to collaborate on ...
